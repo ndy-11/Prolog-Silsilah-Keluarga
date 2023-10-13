@@ -1,3 +1,3 @@
 # Prolog-Silsilah-Keluarga
 
-Coba-Coba Prolog keluarha di ML
+Coba-Coba Prolog keluarga di ML
