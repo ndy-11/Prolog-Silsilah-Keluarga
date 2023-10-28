@@ -1,3 +1,3 @@
 # Prolog-Silsilah-Keluarga
 
-Coba-Coba Prolog keluarga di ML
+Mencari silsilah keluarga mulai dari nenek - cucu menggunakan bahasa Prolog
